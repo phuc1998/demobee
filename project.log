@@ -1,0 +1,56 @@
+2018/12/17 14:35:34.021 [main.go:23]  this is a message of http
+2018/12/17 14:35:34.021 [main.go:25]  [ORM] this is a message of orm
+2018/12/17 14:35:34.021 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 14:35:34.021 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 14:35:34.021 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 14:35:34.021 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 14:35:34.021 [C] [proc.go:201]  oh,crash
+2018/12/17 14:35:34.027 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
+2018/12/17 14:36:58.985 [main.go:23]  this is a message of http
+2018/12/17 14:36:58.985 [main.go:25]  [ORM] this is a message of orm
+2018/12/17 14:36:58.985 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 14:36:58.985 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 14:36:58.986 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 14:36:58.986 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 14:36:58.986 [C] [proc.go:201]  oh,crash
+2018/12/17 14:36:58.995 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
+2018/12/17 14:58:45.923 [main.go:24]  this is a message of http
+2018/12/17 14:58:45.923 [main.go:26]  [ORM] this is a message of orm
+2018/12/17 14:58:45.923 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 14:58:45.923 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 14:58:45.923 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 14:58:45.923 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 14:58:45.923 [C] [proc.go:201]  oh,crash
+2018/12/17 14:58:46.041 [I] [proc.go:201]  {"data":{"qrinfo":"{\"appid\":33,\"zptranstoken\":\"\"}"},"returncode":1,"returnmessage":"success"}
+
+2018/12/17 14:58:46.053 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
+2018/12/17 14:59:28.174 [main.go:24]  this is a message of http
+2018/12/17 14:59:28.174 [main.go:26]  [ORM] this is a message of orm
+2018/12/17 14:59:28.174 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 14:59:28.174 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 14:59:28.174 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 14:59:28.174 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 14:59:28.174 [C] [proc.go:201]  oh,crash
+2018/12/17 14:59:28.193 [I] [proc.go:201]  {"data":{"qrinfo":"{\"amount\":\"\\u003cnil\\u003e\",\"appid\":33,\"apptime\":\"1545033568193\",\"apptransid\":\"181217075928193\",\"appuser\":\"Zalopay Integration\",\"description\":\"Bán Hàng\",\"embeddata\":\"{\\\"machineid\\\":null}\",\"item\":\"\\u003cnil\\u003e\",\"mac\":\"360ccb55b5308bfa95bc1ed54a767fea6b69d445aa78aad827385d9a5877f911\"}"},"returncode":1,"returnmessage":"success"}
+
+2018/12/17 14:59:28.199 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
+2018/12/17 15:03:06.991 [main.go:26]  this is a message of http
+2018/12/17 15:03:06.992 [main.go:28]  [ORM] this is a message of orm
+2018/12/17 15:03:06.992 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 15:03:06.992 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 15:03:06.992 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 15:03:06.992 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 15:03:06.992 [C] [proc.go:201]  oh,crash
+2018/12/17 15:03:07.077 [I] [proc.go:201]  {"data":{"qrinfo":"{\"amount\":\"\\u003cnil\\u003e\",\"appid\":33,\"apptime\":\"1545033787077\",\"apptransid\":\"181217080307077\",\"appuser\":\"Zalopay Integration\",\"description\":\"Bán Hàng\",\"embeddata\":\"{\\\"machineid\\\":null}\",\"item\":\"\\u003cnil\\u003e\",\"mac\":\"038d5d84bb2e8ca214d97894dbcc87edf96f8731e42dc851e8e2aafa0faf61d2\"}"},"returncode":1,"returnmessage":"success"}
+
+2018/12/17 15:03:07.087 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
+2018/12/17 15:03:16.750 [main.go:26]  this is a message of http
+2018/12/17 15:03:16.750 [main.go:28]  [ORM] this is a message of orm
+2018/12/17 15:03:16.750 [D] [proc.go:201]  my book is bought in the year of  2016
+2018/12/17 15:03:16.750 [I] [proc.go:201]  this yellow cat is 3 years old
+2018/12/17 15:03:16.750 [W] [proc.go:201]  json is a type of kv like map[key:2016]
+2018/12/17 15:03:16.750 [E] [proc.go:201]  1024 is a very good game
+2018/12/17 15:03:16.750 [C] [proc.go:201]  oh,crash
+2018/12/17 15:03:16.919 [I] [proc.go:201]  {"data":{"qrinfo":"{\"appid\":33,\"zptranstoken\":\"\"}"},"returncode":1,"returnmessage":"success"}
+
+2018/12/17 15:03:16.934 [I] [asm_amd64.s:1333]  http server Running on http://127.0.0.1:8080
